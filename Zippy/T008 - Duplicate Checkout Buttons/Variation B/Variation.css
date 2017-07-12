@@ -1,0 +1,16 @@
+.cart .title-buttons .checkout-types li {
+    margin: 0 0 0px 0px;
+}
+
+.cart .page-title h1 {
+    font-size: 1.5em;
+    color: #000;
+}
+
+.duplicateButton{
+    margin-top: 6px;
+}
+
+.buttonFinalizar{
+    width: 150px;
+}
