@@ -1,0 +1,7 @@
+.w-flag__delivery:before {
+    font-size: 16px;
+    font-size: 1rem;
+    content: 'Portes Grátis';
+    font-family: worten-icons;
+    font-family: Lato,sans-serif;
+}

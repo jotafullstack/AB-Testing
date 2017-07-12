@@ -1,0 +1,6 @@
+.w-flag__delivery:before {
+    font-size: 15px;
+    content: 'Entrega Gratuita';
+    font-family: worten-icons;
+    font-family: Lato,sans-serif;
+}
