@@ -1,0 +1,9 @@
+.t002-logout {
+    margin-left: 2px;
+}
+
+@media (max-width:991px) {
+    .t002-logout {
+        display: none;
+    }
+}
