@@ -1,0 +1,8 @@
+function (options) {
+// If all works fine
+   try{
+       $('.product-item-list .product-item-btn .qa-product-quickview').find('span').text('Comprar')
+   }
+catch(err){
+}
+}
