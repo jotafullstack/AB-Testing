@@ -1,0 +1,48 @@
+#minicart {
+    top: 55px!important;
+    min-width: 350px;
+}
+
+.t002-li {
+    margin-right: 10px !important;
+    font-size: 12px;
+
+span {
+    display: block !important;
+    margin: auto !important;
+}
+
+.t002-title {
+    margin-top: -4px !important;
+    color: black !important;
+    background-image: none !important;
+    text-transform: none !important;
+}
+}
+
+.t002-miniCartLi {
+
+#openMinicart {
+    margin-top: 10px !important;
+}
+}
+
+.t002-newsletterLi {
+.t002-newsletterImage {
+    margin-top: 13px !important;
+    background-image: url('//d1m54pdnjzjnhe.cloudfront.net/pngineer/bd1288b0-897b-11e6-9dfc-1f5e8db9a15f.png');
+    background-position: center top;
+    background-repeat: no-repeat;
+    color: #fff;
+    background-size: 100%;
+    width: 36px;
+    height: 22.5px;
+}
+.t002-title {
+    margin-top: -23px !important;
+}
+}
+
+#minicart {
+    top: 50px;
+}
