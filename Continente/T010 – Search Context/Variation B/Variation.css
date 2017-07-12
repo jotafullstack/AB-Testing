@@ -1,0 +1,41 @@
+.T011{
+    float:right;
+    margin: -6px 20px 0 0;
+    font-family: Arial;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.T011-total{
+    float:right;
+    margin: -1px 15px 0 0;
+}
+
+.T011-totalTitle{
+    color: #777;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.T011-totalPrice{
+    color: #de1922;
+    font-size: 1.3em;
+}
+
+@keyframes animationPrice {
+    0%   {font-size: 1.3em;}
+    25%  {font-size: 1.6em;}
+    50%  {font-size: 1.6em;}
+    100% {font-size: 1.3em;}
+}
+
+.T011-animatePrice {
+    color: #de1922;
+    animation-name: animationPrice;
+    animation-duration: 2s;
+}
+
+#breadcrumbNavigation .redBigButton{
+    padding-left: 18px;
+    padding-right: 18px;
+}
